@@ -54,6 +54,6 @@ ggplot(na.omit(malla_join), aes(PIB_pc, poblacion, size = poblacion, color = pai
   
 + Para guardar el grafico animado como gif  
 anim_save("nombre.gif")
-  
+ 
   
   
